@@ -1,4 +1,16 @@
 <div align="center">
+  <img src="./assets/banner.png" width="100%">
+</div>
+
+<div align="center">
+
+# CALION
+
+`linux` · `rust` · `c` · `cpp` · `python`
+
+</div>
+
+<div align="center">
 
 # CALION
 
