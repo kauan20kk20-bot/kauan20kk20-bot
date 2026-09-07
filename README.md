@@ -2,36 +2,53 @@
 
 # CALION
 
-`linux` · `rust` · `c` · `cpp` · `python`
+### linux • rust • c/c++ • python
 
-*building things, breaking things, learning.*
-
-🐧 · 🦀 · ⚙️
+<img src="https://skillicons.dev/icons?i=linux,rust,c,cpp,python,git,docker,vscode" />
 
 </div>
 
 ---
 
-### about
+## about
 
-Student interested in **systems, open source and developer tools**.
+student & open source enthusiast.
 
-```text
-Linux / Rust / C / C++ / Python
-Git / Docker / VS Code
-```
+i like Linux, systems programming, developer tools
+and building things just to understand how they work.
 
-### currently
+> 🦀 Rust is my favorite.
 
-🦀 learning Rust
-🐧 experimenting with Linux
-⚙️ building small tools
-◆ exploring open source
+---
+
+## stack
+
+**languages**
+
+`Rust` `C` `C++` `Python`
+
+**tools**
+
+`Linux` `Git` `Docker` `VS Code`
+
+**interests**
+
+`Systems` `Open Source` `CLI` `Linux` `GameDev`
+
+---
+
+## currently
+
+🦀 learning Rust  
+🐧 exploring Linux  
+⚙️ studying C/C++  
+🐍 building with Python  
+◆ learning open source
 
 ---
 
 <div align="center">
 
-`less talking · more building`
+### 「 build • break • learn 」
 
 </div>
